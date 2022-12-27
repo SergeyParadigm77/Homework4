@@ -131,5 +131,6 @@ public class Main {
                 System.out.println("Самое большее число - " + three);
             }
         }
+        System.out.println("Домашка выполнена!");
     }
 }
